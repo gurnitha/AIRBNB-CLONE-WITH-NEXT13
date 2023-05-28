@@ -107,3 +107,15 @@ Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, Mon
 
 
 ## 2. NAVBAR
+
+
+#### 2.1 NAVBAR - Create navbar component
+
+        new file:   app/components/Container.tsx
+        new file:   app/components/navbar/Navbar.tsx
+        modified:   app/layout.tsx
+        modified:   app/page.tsx
+
+        NEXT:
+
+        Add React interface to Navbar
