@@ -63,3 +63,9 @@ Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, Mon
 
         modified:   README.md
         modified:   app/layout.tsx
+
+
+#### 1.4 INVIRONMENT SETUP - Adding new Nunito font
+
+        modified:   README.md
+        modified:   app/layout.tsx
