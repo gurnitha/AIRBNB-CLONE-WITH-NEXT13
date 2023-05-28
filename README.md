@@ -58,3 +58,8 @@ Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, Mon
         modified:   README.md
         modified:   app/page.tsx
 
+
+#### 1.3 INVIRONMENT SETUP - Changed page title and description
+
+        modified:   README.md
+        modified:   app/layout.tsx
