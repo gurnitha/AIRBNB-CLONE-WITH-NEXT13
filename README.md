@@ -88,3 +88,13 @@ Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, Mon
         modified:   package.json
         new file:   postcss.config.js
         new file:   tailwind.config.js
+
+
+#### 1.6 INVIRONMENT SETUP - Configuring tailwind css
+
+        modified:   README.md
+        new file:   app/globals.css
+        modified:   app/layout.tsx
+        new file:   app/page.module.css
+        modified:   app/page.tsx
+        modified:   tailwind.config.js
