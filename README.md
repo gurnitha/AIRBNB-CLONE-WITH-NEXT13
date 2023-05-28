@@ -69,3 +69,22 @@ Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, Mon
 
         modified:   README.md
         modified:   app/layout.tsx
+
+
+#### 1.5 INVIRONMENT SETUP - Install tailwind css
+
+        1. Install  tailwind css
+
+        hp@ING:airbnbclone ~ npm install -D tailwindcss postcss autoprefixer
+        ...
+
+        2. Initialize tailwind css
+
+        hp@ING:airbnbclone ~ npx tailwindcss init -p
+        
+
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
+        new file:   postcss.config.js
+        new file:   tailwind.config.js
