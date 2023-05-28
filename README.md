@@ -104,3 +104,6 @@ Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, Mon
 
         modified:   README.md
         new file:   app/globals.css
+
+
+## 2. NAVBAR
