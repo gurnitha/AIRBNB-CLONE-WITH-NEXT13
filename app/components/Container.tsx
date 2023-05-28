@@ -1,7 +1,13 @@
-const Container = () => {
+interface ContainerProps {
+	children: React.ReactNode;
+}
+
+const Container: React<ContainerProps> = ({
+	children
+}) => {
 	return (
 		<div>
-			Container
+			{children}
 		</div>
 	);
 }
